@@ -1,0 +1,19 @@
+{
+  "name": "peoples-potential",
+  "description": "A web app for a modulation box",
+  "version": "0.0.0",
+  "homepage": "https://github.com/kaskkaur/peoplespotential.git",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "1.5.x",
+    "angular-mocks": "1.5.x",
+    "jquery": "~2.1.1",
+    "bootstrap": "~3.3.x",
+    "angular-route": "1.5.x",
+    "angular-resource": "1.5.x",
+    "angular-animate": "1.5.x",
+    "angular-touch": "1.5.x",
+    "angular-bootstrap": "^1.2.5"
+  }
+}
